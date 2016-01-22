@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>ecommerce-plugin</module>
+  	<module>platform-plugin</module>
   </modules>
 </project>
